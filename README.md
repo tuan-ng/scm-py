@@ -1,9 +1,9 @@
 # A Scheme Interpreter in Python
 
 A simple Scheme interpreter, getting some inspiration from Peter Norvig
-(https://norvig.com/lispy.html) but involves quite extensive revision to match
-Scheme behavior as seen in Racket. The tokenizer and the parser are written
-from scratch, assuming correct Scheme code.
+(https://norvig.com/lispy.html) but involving quite an extensive revision to
+match Scheme behavior as seen in Racket. The tokenizer and the parser are
+written from scratch, assuming correct Scheme code.
 
 As you can see, this interpreter can handle recursion, among other things:
 
